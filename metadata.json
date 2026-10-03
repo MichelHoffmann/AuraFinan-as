@@ -1,0 +1,6 @@
+{
+  "name": "Aura Finanças",
+  "description": "App de finanças pessoal com controle de gastos, saldo de carteiras, planejamento de metas mensais, relatórios detalhados, lembretes inteligentes e segurança biométrica.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
